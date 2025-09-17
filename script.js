@@ -25,4 +25,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
     })
 
-Geovavanna ribeiro 3d})
+Geovanna ribeiro 3D
